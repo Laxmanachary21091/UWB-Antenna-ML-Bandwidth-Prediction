@@ -1,0 +1,6 @@
+Algorithm,Best_CV_RMSE_GHz,Best_Parameters
+Gradient Boosting,0.28888891886350515,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 300}"
+Extra Trees,0.30716890383775863,"{""max_features"": 1.0, ""min_samples_leaf"": 2, ""n_estimators"": 200}"
+Random Forest,0.2950172181536628,"{""max_features"": 1.0, ""min_samples_leaf"": 2, ""n_estimators"": 200}"
+Decision Tree,0.32779615990728433,"{""max_depth"": null, ""min_samples_leaf"": 4}"
+XGBoost,0.30190108629172446,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 300}"

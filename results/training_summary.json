@@ -1,0 +1,16 @@
+{
+    "dataset_rows_after_target_cleaning": 367,
+    "training_rows": 292,
+    "testing_rows": 75,
+    "features_used": [
+        "gl_mm",
+        "a4_mm",
+        "a9_mm",
+        "a11_mm"
+    ],
+    "best_model_by_test_RMSE": "Gradient Boosting",
+    "best_model_test_RMSE_GHz": 0.44663326921212804,
+    "best_model_test_MAE_GHz": 0.19276725869694458,
+    "best_model_test_R2": 0.9752388920821179,
+    "boundary_censored_excluded": false
+}

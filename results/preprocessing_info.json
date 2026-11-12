@@ -1,0 +1,17 @@
+{
+    "target": "bandwidth_GHz",
+    "features": [
+        "gl_mm",
+        "a4_mm",
+        "a9_mm",
+        "a11_mm"
+    ],
+    "training_medians": {
+        "gl_mm": 19.0,
+        "a4_mm": 2.1,
+        "a9_mm": 1.0,
+        "a11_mm": 9.0
+    },
+    "excluded_boundary_censored": false,
+    "random_state": 42
+}
